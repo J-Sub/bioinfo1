@@ -1,4 +1,4 @@
-track type=bedGraph name="(Shannon's entropy)" description="Cross-linked peptide residue induced error rate(Shannon's entropy)" visibility=full color=78,40,245 altColor=245,40,78 priority=20
+track type=bedGraph name="BedGraph Format" description="BedGraph format" visibility=full color=200,100,0 altColor=0,100,200 priority=20
 chr13	48689488	48689489	-0.0
 chr13	48689489	48689490	-0.0
 chr13	48689490	48689491	-0.0
